@@ -1,0 +1,5 @@
+Running Configurations:
+Namespace(task='aft_ft', dev_tsv='d:\\SOTA\\Dataset\\B4E\\preprocess\\test.tsv', pretrained_path='d:\\SOTA\\KGBERT4ETH\\Train_output\\12_08_22_02', model_path='d:\\SOTA\\KGBERT4ETH\\Eval_output\\linear\\12_08_22_59\\best_linear_probe_model.pth', batch_size=64, max_length=256, epochs=30, learning_rate=2e-05)
+Device: cpu
+Loaded dataset from d:\SOTA\Dataset\B4E\preprocess\test.tsv, total samples: 645
+Model loaded. freeze_bert=False
